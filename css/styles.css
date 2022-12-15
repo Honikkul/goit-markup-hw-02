@@ -1,0 +1,85 @@
+header {
+    background: #ffffff;
+}
+footer {
+    background: #2f303a;
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+}
+.logo {
+    font-size: 26px;
+    font-family: "Raleway";
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.blue-font {
+    color: #2196f3;
+    text-decoration: none;
+}
+
+.studio {
+    color: #000000;
+    text-decoration: none;
+}
+.studio-white {
+    color: white;
+}
+.nav {
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+
+.contact-data {
+    font-size: 14px;
+
+    font-weight: 500;
+    color: #757575;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #f5f4fa;
+    height: 38px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    border-radius: 4px;
+}
+.button:hover {
+    background-color: #2196f3;
+    color: white;
+}
+h2 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+.article-container {
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 262px;
+
+    background: #ffffff;
+    border: 1px solid #eeeeee;
+}
+.portfolio-description {
+    font-size: 14px;
+    color: #757575;
+}
+address {
+    color: white;
+    font-size: 14px;
+    font-style: normal;
+}
+.footer-container {
+    padding-left: 215px;
+}
